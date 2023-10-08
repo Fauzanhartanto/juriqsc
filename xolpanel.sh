@@ -3,7 +3,7 @@
 #install
 apt update && apt upgrade
 apt install python3 python3-pip git
-git clone https://github.com/JurigVPN/scupdate.git
+git clone https://github.com/Fauzanhartanto/juriqsc.git
 unzip scupdate/xolpanel.zip
 pip3 install -r xolpanel/requirements.txt
 pip3 install pillow
